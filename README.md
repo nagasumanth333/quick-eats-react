@@ -1,3 +1,7 @@
+
+This Project is hosted in Netlify - https://quick-eats-app.netlify.app/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
